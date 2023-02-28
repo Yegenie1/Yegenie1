@@ -1,3 +1,5 @@
+<img src='이미지파일/black.png' width=300 height=200> </img>
+
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=00FF00&height=300&section=header&text=깃허브%20특강&fontSize=90)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=Yegenie1)](https://github.com/Yegenie1)
