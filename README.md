@@ -1,51 +1,23 @@
-<img src='이미지파일/black.png' width=300 height=200> </img>
-
-![header](https://capsule-render.vercel.app/api?type=rounded&color=00FF00&height=300&section=header&text=깃허브%20특강&fontSize=90)
-
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=Yegenie1)](https://github.com/Yegenie1)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yegenie1)](https://github.com/Yegenie1/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yegenie1&layout=compact)](https://github.com/Yegenie1/github-readme-stats)
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=Yegenie1&show_icons=true&theme=radical)](https://github.com/Yegenie1)
-
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
-![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
-![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
-
----
-
-**두껍게** <br>
-*이텔릭* <br>
-~~스트라이크~~ <br>
-
----
-
->인용구
-
-*1번
-*2번
--1번
--2번
-
-[네이버](www.naver.com)
-
-```
-printf("안녕하세요")
-include ~~~~
-```
+### HELLO WORLD 👋
 
 :smirk:
 :joy:
 :rage:
+
+<img src='이미지파일/black.png' width=300 height=200> </img>
+
