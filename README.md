@@ -19,5 +19,3 @@
 :joy:
 :rage:
 
-<img src='이미지파일/black.png' width=300 height=200> </img>
-
